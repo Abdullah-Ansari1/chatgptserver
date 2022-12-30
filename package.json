@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "build": "echo \"No build specified\" && exit 1",
     "start": "nodemon server"
   },
   "dependencies": {
